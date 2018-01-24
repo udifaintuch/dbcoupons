@@ -1,2 +1,2 @@
 # dbcoupons
-the my sql data base of my coupons project
+this is  my sql data base of my coupons project
